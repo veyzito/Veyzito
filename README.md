@@ -1,16 +1,28 @@
-### Hi there 👋
+### <p align="center">☕ &nbsp;Buy me a coffee</p>
+<br>
+<p align="center"><strong>
+  Bitcoin: 15nyPHRQASxPE5oLTqWhVGQc6DgMCYTgtk<br>
+  Ethereum: 0x07D04bc39620Be57925DcabA137bd399BD9885d8<br>
+  Solana: GDBd9GwEJcSmBiC3LfiGK3JMux4xit4GkxTpoz5cMomh<br>
+</strong></p>
 
-<!--
-**veyzito/Veyzito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-----
+### <p align="center">⚙️ &nbsp;Statistics</p>
+<br>
+<p align="center">
+<a href="https://github.com/stapeuh">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stapeuh&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stapeuh&layout=compact&langs_count=8&theme=react&locale=fr"/>
+</a>
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+
+### <p align="center">👀 &nbsp;Visitors</p>
+<br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/stapeuh/count.svg" />
+</p>
+
